@@ -51,7 +51,7 @@ Set up A records in Powershell ISE. CNAME maps ip address to another name. Root 
 <img src="https://github.com/user-attachments/assets/835a09f8-6832-4931-a92b-950be7465dc0"/>
 </p>
 <p>
-Checked local dns cache if in the domain controller. Nslookup searches Dns records in domain controller. ipconfig /displaydns resolved Dns cache. The old ipaddrress was the Dns cache. ipconfig /flushdns deleted old dns. Root hints uses other servers to solve dns if it can't find it locally. 
+Checked local dns cache if in the domain controller. Nslookup searched Dns records in domain controller. ipconfig /displaydns resolved Dns cache. The old ipaddrress was the Dns cache. ipconfig /flushdns deleted old dns. Root hints uses other servers to solve dns if it can't find it locally. 
 </p>
 <br />
 
