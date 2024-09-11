@@ -3,7 +3,7 @@
 </p>
 
 <h1>DNS Management and Network File Shares and Permissions</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we observe DNS management and experiment with Network File Shares <br />
 
 
 
@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Edited Root Hints
 - Checked local DNS cache
 - Created FQDN
-- Implemened cmd line tools
+- Implemented cmd line tools
 - Configured file shares
 - Located domain controller in file explorer
 
@@ -43,7 +43,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/user-attachments/assets/3f4d9e7f-02d1-479c-9481-3428e23a4766"/>
 </p>
 <p>
-Set up A records in Powershell ISE. CNAME maps ip address to another name. Root hints communicate with other DNS servers. 
+Set up A records in Powershell ISE. CNAME maps the IP address to another name. Root hints communicate with other DNS servers. 
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Set up A records in Powershell ISE. CNAME maps ip address to another name. Root 
 <img src="https://github.com/user-attachments/assets/835a09f8-6832-4931-a92b-950be7465dc0"/>
 </p>
 <p>
-Checked local dns cache if in the domain controller. Nslookup searched Dns records in domain controller. ipconfig /displaydns resolved Dns cache. The old ipaddrress was the Dns cache. ipconfig /flushdns deleted old dns. Root hints uses other servers to solve dns if it can't find it locally. 
+Checked local DNS cache if in the domain controller. Nslookup searched DNS records in the domain controller. ipconfig /displaydns resolved the DNS cache. The old IP address was the DNS cache. ipconfig /flushdns deleted old dns. Root hints use other servers to solve DNS if it can't find it locally. 
 </p>
 <br />
 
@@ -59,6 +59,6 @@ Checked local dns cache if in the domain controller. Nslookup searched Dns recor
 <img src="https://github.com/user-attachments/assets/59677c07-509f-43e2-b4d6-587ed26ec406"/>
 </p>
 <p>
-Configured properties for domain users. Located domain controller on the network. Edited security groups for file sharing such as read, write, or deny to files. Changed users roles.  
+Configured properties for domain users. Located domain controller on the network. Edited security groups for file sharing such as read, write, or deny to files. Changed users' roles.  
 </p>
 <br />
