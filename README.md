@@ -2,24 +2,24 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>DNS Management and Network File Shares and Permissions</h1>
-In this tutorial, we observe DNS management and experiment with Network File Shares <br />
+<h1>DNS Management Strategies and Effective Permissions for Network File Sharing</h1>
+In this tutorial, we explore the fundamentals of DNS management and experiment with network file shares. Participants will learn how to configure and manage DNS settings to ensure efficient name resolution within their networks. Additionally, we will delve into the setup of network file shares, examining how to create shared resources and assign permissions to users and groups. By engaging in hands-on experiments, users will gain practical experience in both DNS management and the effective administration of network file shares, enhancing their skills for real-world applications. <br />
 
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Protocol
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
-- DNS
-- Server Manager
-- Active Directory
-- Security Groups
-- Powershell ISE
-- File Explorer
+- Microsoft Azure – Virtual Machines and Compute resources
+- Remote Desktop Protocol (RDP) – Remote access to virtual machines
+- Command-Line Tools – Including PowerShell and CMD for system management
+- Network Protocols – SSH, RDP, DNS, HTTP/S, ICMP for communication and connectivity
+- Wireshark – Used for protocol analysis and network traffic monitoring
+- DNS Management – Configuration and troubleshooting of DNS settings
+- Server Manager – For managing server roles and features
+- Active Directory – User and group management within the domain
+- Security Groups – Permissions and access control for users and resources
+- PowerShell ISE – Scripting and automation tasks for administrative purposes
+- File Explorer – Managing network file shares and permissions
 
 <h2>Operating Systems Used </h2>
 
