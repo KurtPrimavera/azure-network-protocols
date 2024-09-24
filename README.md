@@ -22,9 +22,9 @@ In this tutorial, we explore the fundamentals of DNS management and experiment w
 - File Explorer – Managing network file shares and permissions
 
 <h2>Operating Systems Used </h2>
+- Windows 10 (21H2) – Operating system for virtual machine deployment and testing environments
+- Ubuntu Server 20.04 – Linux-based server OS for network services and application management
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
 
